@@ -51,4 +51,4 @@ blood-donation-db/
 | Milestone 2 | Normalization (1NF to 3NF) | ✅ Done |
 | Milestone 3 | Dataset and Dataflow | ✅ Done |
 | Milestone 4 | DDL Scripts | ✅ Done |
-| Milestone 5 | Data Population | ⏳ Pending |
+| Milestone 5 | Data Population | ✅ Done |
