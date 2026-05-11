@@ -28,18 +28,28 @@ The Online Blood Donation Management System is a web-based application that allo
 
 ## Repository Structure
 
+## Repository Structure
+
+```
 blood-donation-db/
 │
 ├── README.md
 ├── NORMALIZATION.md
+├── DATAFLOW.md
+├── generate_data.py
+├── insert_data.py
 ├── ERD/
 │   └── erd_diagram.png
 ├── DDL/
 │   └── create_tables.sql
 ├── DML/
-│   └── (Milestone 5)
+│   └── validation.sql
 └── CSV/
-    └── (Milestone 3)
+    ├── admin.csv
+    ├── hospital.csv
+    ├── donor.csv
+    └── bloodrequest.csv
+```
 
 
     ---
