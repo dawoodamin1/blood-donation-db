@@ -44,3 +44,10 @@ CREATE TABLE bloodrequest (
     requested_at     TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (hospital_id) REFERENCES hospital(hospital_id) ON DELETE SET NULL
 );
+
+-- Indexes for frequent search columns
+CREATE INDEX idx_donor_blood_group ON donor(blood_group);
+CREATE INDEX idx_donor_city ON donor(city);
+CREATE INDEX idx_donor_available ON donor(is_available);
+CREATE INDEX idx_bloodrequest_status ON bloodrequest(request_status);
+CREATE INDEX idx_bloodrequest_hospital ON bloodrequest(hospital_id);

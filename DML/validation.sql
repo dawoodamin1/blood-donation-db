@@ -1,3 +1,9 @@
+-- ============================================
+-- Milestone 5 — Data Population Validation
+-- Online Blood Donation Management System
+-- Dawood Amin & Taimur Khan
+-- ============================================
+
 USE blood_donation_db;
 
 -- COUNT check

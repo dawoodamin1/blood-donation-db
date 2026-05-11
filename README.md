@@ -62,3 +62,7 @@ blood-donation-db/
 | Milestone 3 | Dataset and Dataflow | ✅ Done |
 | Milestone 4 | DDL Scripts | ✅ Done |
 | Milestone 5 | Data Population | ✅ Done |
+
+
+## GitHub Repository
+https://github.com/dawoodamin1/blood-donation-db
