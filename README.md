@@ -49,6 +49,6 @@ blood-donation-db/
 |-----------|-------------|--------|
 | Milestone 1 | ERD and Relational Schema | ✅ Done |
 | Milestone 2 | Normalization (1NF to 3NF) | ✅ Done |
-| Milestone 3 | Dataset and Dataflow | ⏳ Pending |
+| Milestone 3 | Dataset and Dataflow | ✅ Done |
 | Milestone 4 | DDL Scripts | ✅ Done |
 | Milestone 5 | Data Population | ⏳ Pending |
